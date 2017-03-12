@@ -17,4 +17,3 @@ $ clip < ~/.ssh/id_rsa.pub
 4、测试一下该SSH key
 在git Bash 中输入以下代码
 $ ssh -T git@github.com
-
